@@ -28,6 +28,7 @@ You have to create an application on your 42 profile, with this redirect URI : *
 
 
 ----
+
 ## Installation
 
 1. **Clone the repository:**
@@ -78,7 +79,6 @@ Just press **CTRL+C**.
 ````
 MYAPP_RELEASE_STORE_PASSWORD=******
 MYAPP_RELEASE_KEY_PASSWORD=******
-````
 ````
 
 **android/app/build.gradle**
