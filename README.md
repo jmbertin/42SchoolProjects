@@ -79,6 +79,7 @@ Just press **CTRL+C**.
 MYAPP_RELEASE_STORE_PASSWORD=******
 MYAPP_RELEASE_KEY_PASSWORD=******
 ````
+````
 
 **android/app/build.gradle**
 ````
