@@ -99,7 +99,7 @@ android/app/build/outputs/apk/release/app-release.apk
 android/app/build/outputs/bundle/release/app-release.aab
 ````
 
-1. **Cleaning**
+8. **Cleaning**
 
 ````
 ./manage.sh clean
